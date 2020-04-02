@@ -17,7 +17,8 @@ npm run start
 
 ## Frontend - Interfaces
 
-<img src='/img/DEVS.png' widht='800px'>
+### 1. Cadastra Devs
+<img src='/img/DEVS.png' widht='1000px'>
 
 
 **Poliana**  ⭐️
@@ -25,7 +26,7 @@ npm run start
 * LinkedIn: [@polianatakisita](https://www.linkedin.com/in/polianatakisita)
 
 ## 📝 License
-Copyright © 2020 [irailton](https://github.com/pollytakisita).<br />
+Copyright © 2020 [poliana](https://github.com/pollytakisita).<br />
 This project is [MIT](https://github.com/pollytakisita/Frontend---Interface/licence) licensed.
 
 
