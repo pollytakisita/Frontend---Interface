@@ -20,7 +20,6 @@ npm run start
 
 <img src="./src/images/devs.png" width="800px">
 
-<img src="./src/images/photo.jpg" width="800px">
 
 **Poliana**  ⭐️
 
