@@ -3,6 +3,7 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
+
 ## Install
 
 ```sh
@@ -17,8 +18,9 @@ npm run start
 
 ## Frontend - Interfaces
 
-<img src='.src/images/devs.png' width="800px">
+<img src="./src/images/devs.png" width="800px">
 
+<img src="./src/images/photo.jpg" width="800px">
 
 **Poliana**  ⭐️
 
