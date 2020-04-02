@@ -18,7 +18,8 @@ npm run start
 ## Frontend - Interfaces
 
 ### 1. Cadastra Devs
-<img src='/img/DEVS.png' widht='1000px'>
+
+<img src="/src/img/DEVS.png" width="800px">
 
 
 **Poliana**  ⭐️
